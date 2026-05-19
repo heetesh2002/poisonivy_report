@@ -1,6 +1,5 @@
-# Poison Ivy (PIVY) — Threat Intelligence Summary
+# Poison Ivy (PIVY)
 
-**Classification:** CONFIDENTIAL | **Platform:** RedKross Unified Threat Intelligence  
 **Report Date:** May 2026 | **Malware Type:** Remote Access Trojan (RAT)
 
 ---
@@ -100,5 +99,3 @@ Poison Ivy is a Windows-based RAT first identified in **2005**. Its point-and-cl
 - Huntress (2025) — *Poison Ivy Malware: Analysis, Detection, Removal*
 
 ---
-
-*Full intelligence report: `PoisonIvy_Intelligence_Report.docx` — RedKross Threat Intelligence Platform*
